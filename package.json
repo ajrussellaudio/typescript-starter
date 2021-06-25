@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Alan Russell",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
     "typescript": "^4.3.4"
   }
